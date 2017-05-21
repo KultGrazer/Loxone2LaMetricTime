@@ -43,15 +43,15 @@ Sie erhalten jetzt das benötigte *Data format* welches das Design Ihrer Darstel
 5. Die Absätze werden nicht benötigt und können gelöscht werden.
 6. Vergewissen Sie sich nun das die PHP-Echo Klammern (") am Anfang und am Ende des Strings vorhanden sind und setzen Sie vor jedem (") aus dem *Data format* einen Backslasch damit diese bei der Ausgabe dargestellt werden. Aus (") wird (\\")
 7. Laden Sie die Datei auf Ihren Webserver und Rufen sie die via z.B. (http://www.ihreseite.at/getdate.php) auf.
-8. Sie sollten nun den zuvor eine ausgabe erhalten, welcher dem zuvor erstellen *Data format* ident Aussieht. Absätze sind nicht nötigt.
+8. Sie sollten eine Ausgabe erhalten, welcher der zuvor erstellen *Data format* ident ist und Ihre Aussentemperatur enthält. Absätze sind nicht nötigt.
 
-### 4. App ind LaMetrics finalisieren.
+### 4. App in LaMetrics finalisieren.
 
-1. ergänzen Sie *URL to get data from* mit Ihrer Url z.B. (http://www.ihreseite.at/getdate.php) und prüfen Sie die korrektheit mit **VALIDATE**. Wenn alles geklappt hat, erscheint der Rahmen grün.
+1. Ergänzen Sie *URL to get data from* mit Ihrer Url z.B. (http://www.ihreseite.at/getdate.php) und prüfen Sie die Korrektheit mit **VALIDATE**. Wenn alles geklappt hat, erscheint der Rahmen grün.
 2. Klicken Sie **NEXT** und definieren Sie die Store-Infos wie *App name* und *Short description*.
 3. Lassen sie **PRIVATE APP** angehackt, damit Ihre App nicht im Stroe erscheint.
-4. Klicken Sie **SAVE** und prüfen Sie in der darstelleung, ob Ihre Daten übernommen werden.
-5. Wenn alles funktioniert, klicken Sie auf **PUBLISCH**. Ihre App wird nun geprüft und sollte Inerhalb von Kurzer Zeit freigegeben sein.
+4. Klicken Sie **SAVE** und prüfen Sie in der Darstelleung, ob Ihre Daten übernommen werden.
+5. Wenn alles funktioniert, klicken Sie auf **PUBLISCH**. Ihre App wird nun geprüft und sollte innerhalb weniger Minuten freigegeben werden.
 
 ### 5. App in der LaMetrics App hinzufügen.
 
