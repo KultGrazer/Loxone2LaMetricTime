@@ -11,7 +11,7 @@ $wert1 = preg_replace('/[^(\x20-\x7F\)]*/','', $xml1['value']);
 
 echo "{   \"frames\": [    {   \"text\": \"";
 echo str_replace(' ', '',$wert1);
-echo "°\",   \"icon\": \"a8756\"   }  ]  } ";
+echo "\",   \"icon\": \"a8756\"   }  ]  } ";
 
 ?>
 
