@@ -17,7 +17,7 @@ Sie benötigen für das Script:
 ### 1. Vorbereitung
 
 1. Erstellen Sie in Ihrer Loxone Config einen *Virtuellen Status* und Bezeichnen Sie den Baustein eindeutig. In diesem Beispiel "ATemp"
-2. Definieren Sie die später angezeigte Einheit. z.B. "<v.1> °C"
+2. Definieren Sie die später angezeigte Einheit. z.B. "<v.1>°"
 3. Verküpfen Sie den Baustein mit Ihrer Aussentemperatur.
 4. Laden Sie die Config in Ihr Miniserver.
 5. Prüfen Sie ob die Aussentemperatur via Loxone Webservice als "value" dargestellt wird: http://IHREIP:PORT/dev/sps/io/ATemp/state
@@ -28,7 +28,7 @@ Sie benötigen für das Script:
 2. Klicken Sie auf **CREATE** um eine App zu erstellen.
 3. Wählen sie **INDICATOR APP** und Klicken Sie **CREATE**
 4. Wählen Sie ein Logo aus.
-5. Blindtext einfügen, z.B. "24.1 °C"
+5. Blindtext einfügen, z.B. "24.1°"
 6. Wählen Sie *Communication Type* **PULL**
 7. Wählen Sie als *Poll frequency* **1 min** um den Miniserver nicht zu überlasten.
 
