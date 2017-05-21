@@ -41,7 +41,7 @@ Sie erhalten jetzt das benötigte *Data format* welches das Design Ihrer Darstel
 3. Kopieren Sie das *Data format* aus der zuvor Angelegten App von Anfang bis Anfang Ihres Blindtextes und ergänzen Sie diesem im ersten echo-Abschnitt zwischen den Klammern (""). 
 4. Kopieren Sie das *Data format* aus der zuvor Angelegten App von Ende Ihres Blindtextes bis zum Ende der Daten und ergänzen Sie diese im dritten echo-Abschnitt zwischen den Klammern (""). 
 5. Die Absätze werden nicht benötigt und können gelöscht werden.
-6. Vergewissen Sie sich nun das die PHP-Echo Klammern (") am Anfang und am Ende des Strings vorhanden sind und setzen Sie vor jedem (") aus dem *Data format* einen Backslasch damit diese bei der Ausgabe dargestellt werden. Aus (") wird (\")
+6. Vergewissen Sie sich nun das die PHP-Echo Klammern (") am Anfang und am Ende des Strings vorhanden sind und setzen Sie vor jedem (") aus dem *Data format* einen Backslasch damit diese bei der Ausgabe dargestellt werden. Aus (") wird (\\")
 7. Laden Sie die Datei auf Ihren Webserver und Rufen sie die via z.B. (http://www.ihreseite.at/getdate.php) auf.
 8. Sie sollten nun den zuvor eine ausgabe erhalten, welcher dem zuvor erstellen *Data format* ident Aussieht. Absätze sind nicht nötigt.
 
