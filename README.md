@@ -24,8 +24,8 @@ Sie benötigen für das Script:
 
 ### 2. App in LaMetric erstellen.
 
-1. Gehen Sie auf https://developer.lametric.com/ und loggen Sie sich mit Ihrem LaMetric-Account an.
-2. Klicken Sie auf **CREATE** um eine App zu erstellen.
+1. Gehen Sie auf https://developer.lametric.com/ und loggen Sie sich mit Ihrem LaMetric-Account ein.
+2. Klicken Sie auf **CREATE** um eine neue App zu erstellen.
 3. Wählen sie **INDICATOR APP** und Klicken Sie **CREATE**
 4. Wählen Sie ein Logo aus.
 5. Blindtext einfügen, z.B. "24.1°"
@@ -36,7 +36,7 @@ Sie erhalten jetzt das benötigte *Data format* welches das Design Ihrer Darstel
 
 ### 3. PHP-Datei vorbereiten.
 
-1. Öffen Sie die getdate.php datei mit einem Editor (z.B. Notepad++)
+1. Öffen Sie die *getdate.php* Datei mit einem Editor (z.B. Notepad++)
 2. Ergänzen Sie **$username**, **$password** und **$url** mit Ihren Miniserver Daten.
 3. Kopieren Sie das *Data format* aus der zuvor Angelegten App von Anfang bis Anfang Ihres Blindtextes und ergänzen Sie diesem im ersten echo-Abschnitt zwischen den Klammern (""). 
 4. Kopieren Sie das *Data format* aus der zuvor Angelegten App von Ende Ihres Blindtextes bis zum Ende der Daten und ergänzen Sie diese im dritten echo-Abschnitt zwischen den Klammern (""). 
