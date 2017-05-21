@@ -18,13 +18,13 @@ Sie benötigen für das Script:
 
 1. Erstellen Sie in Ihrer Loxone Config einen *Virtuellen Status* und Bezeichnen Sie den Baustein eindeutig. In diesem Beispiel "ATemp"
 2. Definieren Sie die später angezeigte Einheit. z.B. "<v.1>°"
-3. Verküpfen Sie den Baustein mit Ihrer Aussentemperatur.
+3. Verknüpfen Sie den Baustein mit Ihrer Aussentemperatur.
 4. Laden Sie die Config in Ihr Miniserver.
-5. Prüfen Sie ob die Aussentemperatur via Loxone Webservice als "value" dargestellt wird: http://MiniserverIP:PORT/dev/sps/io/ATemp/state
+5. Prüfen Sie ob die Aussentemperatur via Loxone Webservice als "value" in der Loxone-XML-Datei dargestellt wird: http://MiniserverIP:PORT/dev/sps/io/ATemp/state
 
-### 2. App in LaMetrics erstellen.
+### 2. App in LaMetric erstellen.
 
-1. Gehen Sie auf https://developer.lametric.com/ und loggen Sie sich mit Ihrem LaMetrics Account an.
+1. Gehen Sie auf https://developer.lametric.com/ und loggen Sie sich mit Ihrem LaMetric-Account an.
 2. Klicken Sie auf **CREATE** um eine App zu erstellen.
 3. Wählen sie **INDICATOR APP** und Klicken Sie **CREATE**
 4. Wählen Sie ein Logo aus.
@@ -36,7 +36,7 @@ Sie erhalten jetzt das benötigte *Data format* welches das Design Ihrer Darstel
 
 ### 3. PHP-Datei vorbereiten.
 
-1. Öffen Sie die gedate.php datei mit einem Editor (z.B. Notepad++)
+1. Öffen Sie die getdate.php datei mit einem Editor (z.B. Notepad++)
 2. Ergänzen Sie **$username**, **$password** und **$url** mit Ihren Miniserver Daten.
 3. Kopieren Sie das *Data format* aus der zuvor Angelegten App von Anfang bis Anfang Ihres Blindtextes und ergänzen Sie diesem im ersten echo-Abschnitt zwischen den Klammern (""). 
 4. Kopieren Sie das *Data format* aus der zuvor Angelegten App von Ende Ihres Blindtextes bis zum Ende der Daten und ergänzen Sie diese im dritten echo-Abschnitt zwischen den Klammern (""). 
