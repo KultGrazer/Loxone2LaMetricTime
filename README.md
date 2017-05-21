@@ -10,7 +10,7 @@ In diesm Beispiel wird die gemessene Aussentemperatur "ATemp" mit einem beliebei
 
 Sie benötigen für das Script:
 
-* Eine LaMetrics Time mit bereits aktivierten Account
+* Eine LaMetric Time mit bereits aktivierten Account.
 * Eine Webserver mit PHP und *allow_url_fopen "1"*
 * Loxone Smart Home mit externem Zugriff über Loxone CloudDNS, einem anderen DNS-Abieter oder einer fixen IP.
 
