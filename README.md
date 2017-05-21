@@ -1,6 +1,6 @@
-## Loxone 2 LaMetrics Time
+## Loxone 2 LaMetric Time
 
-Dieses Script holt sich aus Ihrem Loxone Smarthome Daten und stell diese auf Ihrer LaMetrics Time dar.
+Dieses Script holt sich aus Ihrem Loxone Smarthome Daten und stell diese auf Ihrer LaMetric Time dar.
 
 ### Vorwort
 
