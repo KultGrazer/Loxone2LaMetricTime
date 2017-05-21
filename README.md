@@ -20,7 +20,7 @@ Sie benötigen für das Script:
 2. Definieren Sie die später angezeigte Einheit. z.B. "<v.1>°"
 3. Verküpfen Sie den Baustein mit Ihrer Aussentemperatur.
 4. Laden Sie die Config in Ihr Miniserver.
-5. Prüfen Sie ob die Aussentemperatur via Loxone Webservice als "value" dargestellt wird: http://IHREIP:PORT/dev/sps/io/ATemp/state
+5. Prüfen Sie ob die Aussentemperatur via Loxone Webservice als "value" dargestellt wird: http://MiniserverIP:PORT/dev/sps/io/ATemp/state
 
 ### 2. App in LaMetrics erstellen.
 
