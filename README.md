@@ -30,7 +30,7 @@ Sie benötigen für das Script:
 4. Wählen Sie ein Logo aus.
 5. Blindtext einfügen, z.B. "24.1°"
 6. Wählen Sie *Communication Type* **PULL**
-7. Wählen Sie als *Poll frequency* **1 min** um den Miniserver nicht zu überlasten.
+7. Wählen Sie als *Poll frequency* **1 min** oder höher, um Ihren Miniserver nicht zu überlasten.
 
 Sie erhalten jetzt das benötigte *Data format* welches das Design Ihrer Darstellung definiert.
 
