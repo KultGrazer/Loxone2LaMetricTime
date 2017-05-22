@@ -51,7 +51,7 @@ Sie erhalten jetzt das benötigte *Data format* welches das Design Ihrer Darstel
 2. Klicken Sie **NEXT** und definieren Sie die Store-Infos wie *App name* und *Short description*.
 3. Lassen sie **PRIVATE APP** angehackt, damit Ihre App nicht im Stroe erscheint.
 4. Klicken Sie **SAVE** und prüfen Sie in der Darstelleung, ob Ihre Daten übernommen werden.
-5. Wenn alles funktioniert, klicken Sie auf **PUBLISCH**. Ihre App wird nun geprüft und sollte innerhalb weniger Minuten freigegeben werden.
+5. Wenn alles funktioniert, klicken Sie auf **PUBLISH**. Ihre App wird nun geprüft und sollte innerhalb weniger Minuten freigegeben werden.
 
 ### 5. App in der LaMetrics App hinzufügen.
 
